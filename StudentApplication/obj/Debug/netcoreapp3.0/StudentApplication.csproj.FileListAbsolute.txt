@@ -1,0 +1,11 @@
+C:\Users\Prophesy\Documents\C#2019\StudentApplication\StudentApplication\bin\Debug\netcoreapp3.0\StudentApplication.exe
+C:\Users\Prophesy\Documents\C#2019\StudentApplication\StudentApplication\bin\Debug\netcoreapp3.0\StudentApplication.deps.json
+C:\Users\Prophesy\Documents\C#2019\StudentApplication\StudentApplication\bin\Debug\netcoreapp3.0\StudentApplication.runtimeconfig.json
+C:\Users\Prophesy\Documents\C#2019\StudentApplication\StudentApplication\bin\Debug\netcoreapp3.0\StudentApplication.runtimeconfig.dev.json
+C:\Users\Prophesy\Documents\C#2019\StudentApplication\StudentApplication\bin\Debug\netcoreapp3.0\StudentApplication.dll
+C:\Users\Prophesy\Documents\C#2019\StudentApplication\StudentApplication\bin\Debug\netcoreapp3.0\StudentApplication.pdb
+C:\Users\Prophesy\Documents\C#2019\StudentApplication\StudentApplication\obj\Debug\netcoreapp3.0\StudentApplication.csprojAssemblyReference.cache
+C:\Users\Prophesy\Documents\C#2019\StudentApplication\StudentApplication\obj\Debug\netcoreapp3.0\StudentApplication.AssemblyInfoInputs.cache
+C:\Users\Prophesy\Documents\C#2019\StudentApplication\StudentApplication\obj\Debug\netcoreapp3.0\StudentApplication.AssemblyInfo.cs
+C:\Users\Prophesy\Documents\C#2019\StudentApplication\StudentApplication\obj\Debug\netcoreapp3.0\StudentApplication.dll
+C:\Users\Prophesy\Documents\C#2019\StudentApplication\StudentApplication\obj\Debug\netcoreapp3.0\StudentApplication.pdb
